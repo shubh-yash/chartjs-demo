@@ -1,0 +1,34 @@
+{
+  "loan": [
+    {
+      "id": 1,
+      "year": "2020",
+      "industry": "Automobile",
+      "loanAmt": 1000000
+    },
+    {
+      "id": 2,
+      "year": "2021",
+      "industry": "Tourism",
+      "loanAmt": 3000000
+    },
+    {
+      "id": 3,
+      "year": "2022",
+      "industry": "Finance",
+      "loanAmt": 5000000
+    },
+    {
+      "id": 4,
+      "year": "2023",
+      "industry": "IT",
+      "loanAmt": 7000000
+    },
+    {
+      "id": 5,
+      "year": "2024",
+      "industry": "Hotel",
+      "loanAmt": 2000000
+    }
+  ]
+}
